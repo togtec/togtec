@@ -1,11 +1,11 @@
 ### Olá! Eu sou o Tog 🖐️
-<a href="togtec.dev.br" target="_blank">
+<a href="https://togtec.dev.br" target="_blank">
   <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=togtec.dev.br&style=for-the-badge" />
 </a>
-<a href="linkedin.com/in/togtec" target="_blank">
+<a href="https://www.linkedin.com/in/togtec" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="youtube.com/@togtec" target="blank">
+<a href="https://www.youtube.com/@togtec" target="blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a><br><br>
 
