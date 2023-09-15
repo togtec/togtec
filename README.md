@@ -7,13 +7,13 @@
 </a>
 <a href="https://www.youtube.com/@togtec" target="blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a><br><br>
+</a><br>
 
 ## Tecnologias que eu uso
 <div style="display: inline-block">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</div><br><br>
+</div>
 
 ## Áreas de Interesse
 <ul>
@@ -22,7 +22,7 @@
   <li>Engenharia de Software</li>
   <li>Padrões de Projeto</li>
   <li>Testes de Software</li>
-</ul><br>
+</ul>
 
 ## Estatísticas
 <img align="left" alt="Tog's GitHub stats" src="https://github-readme-stats-togtec.vercel.app/api?username=togtec&show_icons=true&theme=transparent&hide_title=true&hide_border=false" />
