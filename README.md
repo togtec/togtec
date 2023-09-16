@@ -18,13 +18,11 @@
 ## Áreas de Interesse
 <ul>
   <li>Desenvolvimento Java Back-End</li>
-  <li>Acessibilidade Front-End</li>
   <li>Engenharia de Software</li>
   <li>Padrões de Projeto</li>
   <li>Testes de Software</li>
 </ul>
 
-## Estatísticas
-<img align="left" alt="Tog's GitHub stats" src="https://github-readme-stats-togtec.vercel.app/api?username=togtec&show_icons=true&theme=transparent&hide_title=true&hide_border=false" />
+
 
 
