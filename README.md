@@ -1,4 +1,4 @@
-### Olá! Eu sou o Tog! 🖐️
+## Olá! Eu sou o Tog! 🖐️
 <a href="https://togtec.dev.br" target="_blank">
   <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=togtec.dev.br&style=for-the-badge" />
 </a>
@@ -7,13 +7,13 @@
 </a>
 <a href="https://www.youtube.com/@togtec" target="blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a><br>
+</a><br><br>
 
 ## Tecnologias que eu uso
 <div style="display: inline-block">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</div>
+</div><br>
 
 ## Áreas de Interesse
 <ul>
