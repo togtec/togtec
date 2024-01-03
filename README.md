@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Tog! 🖐️
 
-Desenvolvedor Java Back-End!
+Desenvolvedor Java!
 
 <a href="https://togtec.dev.br" target="_blank">
   <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=togtec.dev.br&style=for-the-badge" />
@@ -20,7 +20,7 @@ Desenvolvedor Java Back-End!
 
 ## Áreas de Interesse
 <ul>
-  <li>Desenvolvimento Java Back-End</li>
+  <li>Desenvolvimento Java</li>
   <li>Engenharia de Software</li>
   <li>Padrões de Projeto</li>
   <li>Testes de Software</li>
