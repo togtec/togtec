@@ -12,13 +12,13 @@ Desenvolvedor Java!
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a><br><br>
 
-## Tecnologias que eu uso
+## Tecnologias que eu uso:
 <div style="display: inline-block">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div><br>
 
-## Áreas de Interesse
+## Áreas de Interesse:
 <ul>
   <li>Desenvolvimento Java</li>
   <li>Engenharia de Software</li>
