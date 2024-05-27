@@ -5,12 +5,7 @@ Desenvolvedor Java!
 <a href="https://togtec.com.br" target="_blank">
   <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=togtec.com.br&style=for-the-badge" />
 </a>
-<a href="https://www.linkedin.com/in/togtec" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@togtec" target="blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a><br><br>
+<br><br>
 
 ## Tecnologias que eu uso:
 <div style="display: inline-block">
