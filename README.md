@@ -1,7 +1,3 @@
-## Olá! Eu sou o Tog! 🖐️
-Desenvolvedor Java!
+## Olá! Eu sou o Tog! Desenvolvedor Java! 🖐️
 
-Aqui você encontra projetos Java SE, Java EE e Spring Framework.
-
-
-
+Aqui você encontra os repositórios de código de meu portfólio com projetos Java SE, Java EE e Spring Framework.
